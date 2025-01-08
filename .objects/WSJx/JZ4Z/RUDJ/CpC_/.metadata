@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Cart",
+  "Type": "Element",
+  "Id": "CpC_4p9P8kO8tVwaGXyPgQ",
+  "Reference": "QJGTRXjzNkCm1u4Mu5hlIw/CpC_4p9P8kO8tVwaGXyPgQ",
+  "ParentRef": "QJGTRXjzNkCm1u4Mu5hlIw/RUDJLvVVsk-Jnf7gw0coLw",
+  "Created": "2025-01-06T12:16:44.5188541Z",
+  "Updated": "2025-01-06T12:16:44.5188541Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

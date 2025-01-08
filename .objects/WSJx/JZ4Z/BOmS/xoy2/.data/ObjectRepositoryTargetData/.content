@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tY2EJT9NYUidQ1KMe3Xx1w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in" CVScreenId="26f7760a-3c74-4b71-987d-99669fc4d084" CvTextArea="1836, 231, 37, 19" CvTextArgument="Cart" CvType="Text" DesignTimeRectangle="1830, 230, 42, 22" DesignTimeScaleFactor="1.5" FuzzySelectorArgument="&lt;webctrl class='nav-line-2' parentid='nav-cart-text-container' tag='SPAN' type='' aaname='         Cart                ' check:innerText='Cart' /&gt;" Guid="df73fb2a-2fe5-4e77-a9c6-6b06d2d812c8" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="26f7760a-3c74-4b71-987d-99669fc4d084" CvTextArea="1652, 230, 91, 21" CvTextArgument="&amp; Orders" CvType="Text" DesignTimeRectangle="1655, 230, 88, 22" FuzzySelectorArgument="&lt;webctrl class='nav-line-2' parentid='nav-orders' tag='SPAN' type='' aaname='&amp;amp; Orders' check:innerText='&amp;amp; Orders' /&gt;" Guid="aa13380f-4288-4c89-a997-9db8b33e019f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="5182d5c414d6cb9e05a44be741aa529f.png" xmlns="">0zOb2CRakCE-QdwT_fFs1hg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

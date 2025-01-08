@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Button 'Add to cart'",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "64Kou6efy0aTedrIiCG2tQ",
+  "Reference": "QJGTRXjzNkCm1u4Mu5hlIw/64Kou6efy0aTedrIiCG2tQ",
+  "ParentRef": "QJGTRXjzNkCm1u4Mu5hlIw/RUDJLvVVsk-Jnf7gw0coLw",
+  "Created": "2025-01-03T15:07:52.2217092Z",
+  "Updated": "2025-01-03T15:07:52.2217092Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

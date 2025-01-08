@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Subtotal",
+  "Type": "Element",
+  "Id": "0nUAVnI69kieG4tM08xDPw",
+  "Reference": "QJGTRXjzNkCm1u4Mu5hlIw/0nUAVnI69kieG4tM08xDPw",
+  "ParentRef": "QJGTRXjzNkCm1u4Mu5hlIw/RUDJLvVVsk-Jnf7gw0coLw",
+  "Created": "2025-01-08T11:09:59.0986423Z",
+  "Updated": "2025-01-08T11:09:59.0986423Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

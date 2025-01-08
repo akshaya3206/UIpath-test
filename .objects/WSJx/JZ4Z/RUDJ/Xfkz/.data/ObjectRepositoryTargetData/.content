@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="IUwE6FSSEECcCBoy6MW9kg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/gp/cart/view.html" CVScreenId="af5d0ca4-512f-41b9-8397-4ac36b306b9a" CvTextArea="573, 714, 55, 18" CvTextArgument="Delete" CvType="Text" DesignTimeRectangle="575, 713, 53, 24" DesignTimeScaleFactor="1.5" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aria-label='Delete Dyazo Large Earth Design Extended Desk Mat | Mouse Mat Water Resistant Anti Slip Design for Laptop &amp;amp;amp; Notebooks Size 800 x 300 mm (Black No Logo)' tag='INPUT' type='submit' class='a-color-link' aaname='Delete' check:text='Delete' /&gt;" Guid="28258eed-fdfd-4c86-9be8-f66b8d8fd299" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Amazon.in Shopping Cart' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="af5d0ca4-512f-41b9-8397-4ac36b306b9a" CvElementArea="506, 708, 29, 29" CvTextArea="509, 711, 24, 22" CvType="Icon" DesignTimeRectangle="510, 712, 24, 24" FuzzySelectorArgument="&lt;webctrl type='' class='a-icon a-icon-small-add' parentname='sc-quantity' tag='SPAN' aaname='' /&gt;" Guid="7ba9a4a6-9f5f-43cf-8953-f7732474fa4b" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAADQSURBVEhL7ZRBDoIwEEW9gdJwEMMFZG+4lixkI4fhCiLX4QCjzyALHbATSUNMX9KkaUpfM/zpRkLSNxJW+CAKF8csvHWd7LNMDnku17YdVv0xCy91LS5NZeecnKtqWPXHLDyVpWyT5DmYW4nCD/5DSNxJIAe+j2NRjELm2h6STPtoqEJ6jNi/DrYO2oZe1VCFbOYj7TCfwWW5tIYqpByURSuXT0n5HVOv0DpCM0cUfmP9QhJI7GkbkmzFLCTu9Bi9OvWazGEW/koULk5YYd/IHaVUKRh8cTI8AAAAAElFTkSuQmCC" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="444e63b6668584c1f9546257ab923004.png" xmlns="">0S2ItIQxbpkeOHuYS6kb8xA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

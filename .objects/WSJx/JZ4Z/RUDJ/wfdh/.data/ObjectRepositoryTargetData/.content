@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KI4nG4av1UCIGwaFUOKfKg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/s" CVScreenId="b2182db4-422f-4a12-84a0-152e2bc13581" CvTextArea="41, 141, 174, 31" CvTextArgument="amazon.in" CvType="Text" DesignTimeRectangle="35, 127, 195, 75" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='nav-logo-sprites' tag='A' type='' class='nav-logo-link nav-progressive-attribute' aaname='                     .in     ' check:innerText='.in' /&gt;" Guid="82ad67c0-6744-4ffe-be9f-f4862e75c45e" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Amazon.in : Mouse Pad' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b2182db4-422f-4a12-84a0-152e2bc13581" CvTextArea="81, 225, 29, 21" CvTextArgument="All" CvType="Text" DesignTimeRectangle="34, 209, 87, 59" ElementType="Text" FullSelectorArgument="&lt;webctrl id='nav-hamburger-menu' tag='A' /&gt;" Guid="c5184a1a-74fb-4591-a845-a42b4196523e" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c15215d7df2dfbc5a052b98168344ac1.png" xmlns="">0z2lTZ0ADqk6t9STJRVMY9g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScrollSearchedElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

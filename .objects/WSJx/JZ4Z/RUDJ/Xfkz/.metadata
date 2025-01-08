@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Delete",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "XfkzgbygPUiD5YViVqWV6Q",
+  "Reference": "QJGTRXjzNkCm1u4Mu5hlIw/XfkzgbygPUiD5YViVqWV6Q",
+  "ParentRef": "QJGTRXjzNkCm1u4Mu5hlIw/RUDJLvVVsk-Jnf7gw0coLw",
+  "Created": "2025-01-08T13:13:42.6332639Z",
+  "Updated": "2025-01-08T13:13:42.6332639Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

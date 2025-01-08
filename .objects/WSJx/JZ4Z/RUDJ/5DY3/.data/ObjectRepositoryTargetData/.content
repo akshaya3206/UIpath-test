@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6eQBuf1_2kWzjGxBzaKRsg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/s" CVScreenId="9ba9b835-39e1-4911-afe4-9be7b2f7c5c4" CvElementArea="418, 564, 138, 48" CvTextArea="437, 578, 101, 19" CvTextArgument="Add to cart" CvType="Button" DesignTimeRectangle="423, 568, 130, 43" DesignTimeScaleFactor="1.5" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='button' class='a-button-text' aaname='Add to cart' check:innerText='Add to cart' /&gt;" Guid="04a1dd4c-93d9-4c34-b29f-8026cd61ac6f" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Amazon.in : pen set' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9ba9b835-39e1-4911-afe4-9be7b2f7c5c4" CvTextArea="419, 407, 84, 25" CvTextArgument="-prime" CvType="Text" DesignTimeRectangle="422, 409, 79, 22" FuzzySelectorArgument="&lt;webctrl aria-role='img' tag='I' type='' class='a-icon a-icon-prime a-icon-medium' aaname='' idx='1' /&gt;" Guid="4b06eb33-55bf-4922-9b7b-79cf60b9c21a" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="04c6acd72966bd3b108b0cf1b3d3fecc.png" xmlns="">0dzHfqjoX10my2bmmuPzZww</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Q0AqA6sJw022lFY9fDZynQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/s" CVScreenId="0d4cba15-f45a-49bb-98c1-2154f073428b" CvTextArea="1685, 162, 38, 21" CvTextArgument="Cart" CvType="Text" DesignTimeRectangle="1610, 127, 126, 75" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='nav-cart' tag='A' type='' class='nav-a nav-a-2 nav-progressive-attribute' aaname='            21                                                         Cart                        ' check:innerText='21&amp;#xA;Cart' /&gt;" Guid="65f2a042-520e-4be8-ac0a-999e80afcd5d" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Amazon.in : Mouse Pad' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0d4cba15-f45a-49bb-98c1-2154f073428b" CvTextArea="1502, 162, 91, 21" CvTextArgument="&amp; Orders" CvType="Text" DesignTimeRectangle="1505, 163, 88, 22" FuzzySelectorArgument="&lt;webctrl class='nav-line-2' parentid='nav-orders' tag='SPAN' type='' aaname='&amp;amp; Orders' check:innerText='&amp;amp; Orders' /&gt;" Guid="aad4c81c-0dd3-4360-a2de-a2bc9cbefa66" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6d3633daa91fc2d00e04c8459e31c6bf.png" xmlns="">0W0j8_5wRp0uTsSPRHbDPXA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

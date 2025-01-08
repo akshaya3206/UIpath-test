@@ -1,0 +1,14 @@
+﻿{
+  "Name": "7 Cart",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "xoy2OHslgEOmQXi55zxshg",
+  "Reference": "QJGTRXjzNkCm1u4Mu5hlIw/xoy2OHslgEOmQXi55zxshg",
+  "ParentRef": "QJGTRXjzNkCm1u4Mu5hlIw/BOmSyQKDoEitGcIAuV13xQ",
+  "Created": "2025-01-07T08:54:48.3307657Z",
+  "Updated": "2025-01-07T08:54:48.3307657Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

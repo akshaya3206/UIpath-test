@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nD6Sa0GsDkyrag4AEfv_1w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/gp/cart/view.html" CVScreenId="9cbd9a1f-9887-473b-8715-cd514de4a768" CvTextArea="1686, 455, 129, 28" CvType="AnyWordGroup" DesignTimeRectangle="1688, 452, 126, 34" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='sc-subtotal-amount-buybox' tag='SPAN' type='' class='a-size-medium a-color-base sc-price sc-white-space-nowrap' /&gt;" Guid="69feec52-f6e6-4c6c-bed1-e9569c551803" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Amazon.in Shopping Cart' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9cbd9a1f-9887-473b-8715-cd514de4a768" CvElementArea="1454, 539, 394, 51" CvTextArea="1583, 554, 136, 22" CvTextArgument="Proceed to Buy" CvType="Button" DesignTimeRectangle="1456, 543, 388, 44" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aria-labelledby='sc-buy-box-ptc-button-announce' tag='INPUT' type='submit' class='a-button-input' aaname='Proceed to checkout' check:text='Proceed to checkout' /&gt;" Guid="971fed82-e93a-4359-9437-86c6594299ec" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7d8df245712be330234d02329aa34d0c.png" xmlns="">0Tjl701n110S5DA_fgrNRrw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
